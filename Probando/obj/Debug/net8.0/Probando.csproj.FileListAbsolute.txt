@@ -1,0 +1,15 @@
+/workspaces/MiRepoTest/Probando/bin/Debug/net8.0/Probando
+/workspaces/MiRepoTest/Probando/bin/Debug/net8.0/Probando.deps.json
+/workspaces/MiRepoTest/Probando/bin/Debug/net8.0/Probando.runtimeconfig.json
+/workspaces/MiRepoTest/Probando/bin/Debug/net8.0/Probando.dll
+/workspaces/MiRepoTest/Probando/bin/Debug/net8.0/Probando.pdb
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.AssemblyInfoInputs.cache
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.AssemblyInfo.cs
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.csproj.CoreCompileInputs.cache
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.sourcelink.json
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.dll
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/refint/Probando.dll
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.pdb
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/Probando.genruntimeconfig.cache
+/workspaces/MiRepoTest/Probando/obj/Debug/net8.0/ref/Probando.dll
